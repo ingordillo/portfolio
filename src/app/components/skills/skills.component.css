@@ -1,0 +1,25 @@
+li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.card-subtitle {
+    margin: 20px;
+    font-size: 18px;
+    color: #8c43ff
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+
+.fa-pen-to-square, .fa-code, .fa-laptop-code {
+    color: #8c43ff;
+}
